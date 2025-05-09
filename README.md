@@ -1,3 +1,5 @@
+Basic Image Classifier locally ran webapp. Simple API usage and clean UI. Run locally to use, however this project was just made quickly to prove to a peer that it could be done within a one day timeframe (so take with a grain of salt).
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
